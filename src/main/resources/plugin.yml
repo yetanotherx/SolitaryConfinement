@@ -1,0 +1,7 @@
+name: SolitaryConfinement
+main: yetanotherx.bukkitplugin.solitaryconfinement.SCPlugin
+version: 1.0
+commands:
+    j:
+        description: SolitaryConfinement main command
+        usage: /<command> help
